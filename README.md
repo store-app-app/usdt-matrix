@@ -21,8 +21,14 @@
   * [2. 公链与 Layer2 生态 (Layer1 & Layer2 Networks)](#2-公链与-layer2-生态-layer1--layer2-networks)
   * [3. 投研机构与加密媒体 (Research & Crypto Media)](#3-投研机构与加密媒体-research--crypto-media)
   * [4. NFT 市场与分析平台 (NFT Marketplaces & Analytics)](#4-nft-市场与分析平台-nft-marketplaces--analytics)
-  * [5. 稳定币与支付通道 (Stablecoins & Payment Gateways)](#6-稳定币与支付通道-stablecoins--payment-gateways)
-  * [6. 开发者工具与基础设施 (Developer Tools & Infrastructure)](#7-开发者工具与基础设施-developer-tools--infrastructure)
+  * [5. 稳定币与支付通道 (Stablecoins & Payment Gateways)](#5-稳定币与支付通道-stablecoins--payment-gateways)
+  * [6. 开发者工具与基础设施 (Developer Tools & Infrastructure)](#6-开发者工具与基础设施-developer-tools--infrastructure)
+  * [7. 跨链桥与互操作性 (Cross-Chain Bridges)](#7-跨链桥与互操作性-cross-chain-bridges)
+  * [8. 借贷与衍生品 DeFi (Lending & Derivatives DeFi)](#8-借贷与衍生品-defi-lending--derivatives-defi)
+  * [9. GameFi 与元宇宙 (GameFi & Metaverse)](#9-gamefi-与元宇宙-gamefi--metaverse)
+  * [10. SocialFi 与去中心化社交 (SocialFi)](#10-socialfi-与去中心化社交-socialfi)
+  * [11. 空投任务与白名单平台 (Airdrops & Quests)](#11-空投任务与白名单平台-airdrops--quests)
+  * [12. 极客安全与审计机构 (Security & Smart Contract Audits)](#12-极客安全与审计机构-security--smart-contract-audits)
 
 ---
 
@@ -166,6 +172,45 @@
 * [[Foundry]](https://www.usdtbi.com/infra/foundry) - 用 Rust 编写的模块化、极速 Web3 应用智能合约开发、编译与测试框架。
 * [[Hardhat]](https://www.usdtbi.com/infra/hardhat) - 基于 JavaScript 生态的智能合约本地编辑、调试及自动化部署开发环境。
 * [[Chainlink]](https://www.usdtbi.com/infra/chainlink) - Web3 生态占有率第一的去中心化预言机网络（Oracles），提供不可或缺的离链数据安全喂价。
+
+### 7. 跨链桥与互操作性 (Cross-Chain Bridges)
+* [[Stargate Finance]](https://www.usdtbi.com/bridges/stargate) - 基于 LayerZero 协议构建的全链流动性传输应用，解决跨链滑点问题。
+* [[Across Protocol]](https://www.usdtbi.com/bridges/across) - 利用乐观预言机机制的高效以太坊及 Layer2 跨链桥。
+* [[Orbiter Finance]](https://www.usdtbi.com/bridges/orbiter) - 专为 Rollup 之间（如 zkSync, Arbitrum, Optimism）提供极速低成本转账的去中心化桥。
+* [[Thorchain]](https://www.usdtbi.com/bridges/thorchain) - 支持原生资产（如原生 BTC 与 ETH）进行去中心化跨链无缝兑换的底层流动性协议。
+* [[Wormhole]](https://www.usdtbi.com/bridges/wormhole) - 领先的消息传递与跨链协议，连接了包括 Solana、以太坊在内的数十条主流异构公链。
+
+### 8. 借贷与衍生品 DeFi (Lending & Derivatives DeFi)
+* [[Aave]](https://www.usdtbi.com/defi/aave) - 全球锁仓量最大的去中心化超额抵押借贷协议，首创闪电贷（Flash Loans）机制。
+* [[Compound]](https://www.usdtbi.com/defi/compound) - 建立在以太坊上的算法计息去中心化借贷池，DeFi 乐高的核心组件。
+* [[GMX]](https://www.usdtbi.com/defi/gmx) - Arbitrum 生态头部的去中心化永续合约交易所，提供零滑点、高达 50 倍杠杆的现货衍生品交易。
+* [[dYdX]](https://www.usdtbi.com/defi/dydx) - 采用订单薄模式的去中心化衍生品交易所巨头，现已迁移至独立的应用链 Cosmos 生态。
+* [[Synthetix]](https://www.usdtbi.com/defi/synthetix) - 去中心化合成资产发行协议，允许铸造与交易追踪现实世界资产（如法币、黄金）价格的代币。
+
+### 9. GameFi 与元宇宙 (GameFi & Metaverse)
+* [[Axie Infinity]](https://www.usdtbi.com/gamefi/axie) - 引爆 Play-to-Earn（边玩边赚）模式的现象级链游，拥有专属的 Ronin 侧链。
+* [[The Sandbox]](https://www.usdtbi.com/gamefi/sandbox) - 去中心化的体素风格元宇宙平台，玩家可以购买土地（LAND）并创造虚拟资产。
+* [[Decentraland]](https://www.usdtbi.com/gamefi/decentraland) - 由用户完全所有、建立在以太坊上的 3D 虚拟现实元宇宙平台。
+* [[Illuvium]](https://www.usdtbi.com/gamefi/illuvium) - 基于 Immutable X 构建的 3A 级开放世界角色扮演与资产收集型链游。
+* [[StepN]](https://www.usdtbi.com/gamefi/stepn) - 结合 SocialFi 与 GameFi 元素的 Move-to-Earn（边跑边赚）现象级 Web3 生活方式应用。
+
+### 10. SocialFi 与去中心化社交 (SocialFi)
+* [[Lens Protocol]](https://www.usdtbi.com/socialfi/lens) - 由 Aave 团队打造的去中心化社交图谱，赋予创作者完全的社交数据所有权。
+* [[Farcaster]](https://www.usdtbi.com/socialfi/farcaster) - 去中心化、抗审查的社交网络底层协议，拥有高度活跃的 Web3 极客与开发者社区。
+* [[CyberConnect]](https://www.usdtbi.com/socialfi/cyberconnect) - 多链去中心化社交图谱协议，允许应用直接调用用户的社交连接数据。
+* [[Galxe]](https://www.usdtbi.com/socialfi/galxe) - Web3 凭证数据网络，项目方常用于发布链上任务并发放社交 OAT（链上成就代币）。
+
+### 11. 空投任务与白名单平台 (Airdrops & Quests)
+* [[Zealy (原 Crew3)]](https://www.usdtbi.com/quests/zealy) - 项目方构建社区活跃度的任务发布平台，用户通过完成社交任务获取积分与空投权重。
+* [[TaskOn]](https://www.usdtbi.com/quests/taskon) - Web3 增长黑客平台，聚合了大量新项目的抽奖、空投预热与白名单分发活动。
+* [[Layer3]](https://www.usdtbi.com/quests/layer3) - 交互体验极佳的 Web3 学习与任务聚合平台，通过向导式任务引导用户参与链上交互。
+* [[Premint]](https://www.usdtbi.com/quests/premint) - 蓝筹 NFT 项目与热门 Web3 应用最常用的去中心化抽签与白名单信息收集工具。
+
+### 12. 极客安全与审计机构 (Security & Smart Contract Audits)
+* [[CertiK]](https://www.usdtbi.com/security/certik) - 结合形式化验证与 AI 技术的先锋区块链安全与智能合约审计公司。
+* [[SlowMist (慢雾)]](https://www.usdtbi.com/security/slowmist) - 顶尖的区块链生态安全公司，专注威胁情报追踪与交易所/公链安全攻防。
+* [[PeckShield (派盾)]](https://www.usdtbi.com/security/peckshield) - 以极快响应链上黑客攻击事件闻名的数据追踪与安全审计机构。
+* [[Revoke.cash]](https://www.usdtbi.com/security/revoke) - 链上玩家必备的安全防范工具，用于检查并撤销可疑智能合约的代币授权。
 
 ---
 
